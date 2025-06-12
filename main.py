@@ -14,7 +14,7 @@ st.set_page_config(
     layout="wide"
 )
 
-# Pro CSS Injection
+
 st.markdown("""
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
 <style>
